@@ -1,1 +1,185 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Universidad":"Universidad: UAM-L","stroke":"#a136b0","stroke-width":2.2,"stroke-opacity":1,"fill":"#d98cde","fill-opacity":0.7},"geometry":{"coordinates":[[[-99.50228117001726,19.29282237976102],[-99.50230465726479,19.291037825187473],[-99.49756023324828,19.290949151161257],[-99.49759546411974,19.28821131695568],[-99.49488268702137,19.28821131695568],[-99.49491791789248,19.292700454291364],[-99.50228117001726,19.29282237976102]]],"type":"Polygon"},"id":1},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"Alameda cafe\"   Un lugar genial para desayunar en pleno centro de Lerma. Muy recomendables los huevos al horno, la atención es genial y la terraza muy buena para el cafelito. Comida: 5 Servicio: 5 Ambiente: 5","marker-color":"#fff700","marker-size":"medium","marker-symbol":"circle"},"geometry":{"coordinates":[-99.51114058383405,19.28648294843343],"type":"Point"},"id":1},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"Portales\" Lugar con diversos puestos de guisados y garnachas,  una de las mejores opciones para echar un vistazo cuando se tiene antojo. "},"geometry":{"coordinates":[-99.51073735543531,19.286455612599994],"type":"Point"},"id":2},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"La Constancia\" Es una cafeteria con precios algo elevados y  no tienen mucho que comer, mas son bebidas y postres. "},"geometry":{"coordinates":[-99.51183479927724,19.28646169407382],"type":"Point"},"id":3},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"Galería Cafexpresión Lerma\"   Es un lugar pequeñito, muy acogedor, dónde te sirven buen café y buenos postres, tienen un ambiente tranquilo y relajado, el servicio es rápido y no te hacen esperar tanto, además la decoración es muy original ya que tienen tazas de todo tipo."},"geometry":{"coordinates":[-99.51207710770319,19.285726123837748],"type":"Point"},"id":4},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"TAQUERÍA LERMA\"   Martes y domingo los de pastor están al 2x1. La salsa es deliciosa, la carne fresca y sabrosa. Los martes y fines de semana cierran tarde. Hay pocas mesas por lo que a veces conviene pedir para llevar."},"geometry":{"coordinates":[-99.50972049430894,19.2848253695079],"type":"Point"},"id":5},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"Fonda Roja\" Sirven garnachas a precios economicos, el personal es amable aunque casi no hay lugar para sentarse. Es uno de los lugares mas frecuentados por los estudiantes."},"geometry":{"coordinates":[-99.50276963753362,19.291833730481613],"type":"Point"},"id":6},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"Fonda de casa de tabique\"  Es una cocina economica, donde los estudiantes comen cuando ya no alcanza la comida del comedor de la universidad. Tienen precios accesibles y son muy amables, la mayoria del tiempo atienden lo mas rapido posible, aunque con la demanda de los pedidos suele tardarse la comida si hay mucha gente. "},"geometry":{"coordinates":[-99.50277245525352,19.291988867882026],"type":"Point"},"id":7},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"TACOS DE CANASTA\" Casi todos los dias por las tardes entre semana se pone una chica que vende tacos de canasta, super baratos y  medianamente sazonados. "},"geometry":{"coordinates":[-99.50643151779788,19.285920911004283],"type":"Point"},"id":8},{"type":"Feature","properties":{"Lugares de Comida Económica":"Lugares de Comida Económica: \"TAMALES\" Por las mananas se venden tamales, atole y tortas de tamal, aunque estan insipidas y el sabor es poco agradable. No lo recomiendo. "},"geometry":{"coordinates":[-99.50647870526858,19.28589838532386],"type":"Point"},"id":9}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Universidad": "Universidad: UAM-L",
+        "stroke": "#a136b0",
+        "stroke-width": 2.2,
+        "stroke-opacity": 1,
+        "fill": "#d98cde",
+        "fill-opacity": 0.7
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -99.49489128393158,
+              19.288217768977972
+            ],
+            [
+              -99.49492591480622,
+              19.29272738577211
+            ],
+            [
+              -99.50238683383927,
+              19.29279808634628
+            ],
+            [
+              -99.50238633892702,
+              19.291118592005617
+            ],
+            [
+              -99.49755136419184,
+              19.290968473373653
+            ],
+            [
+              -99.4976004719341,
+              19.288178343852678
+            ],
+            [
+              -99.49671832996746,
+              19.288207911910945
+            ],
+            [
+              -99.49489128393158,
+              19.288217768977972
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"Alameda cafe\"   Un lugar genial para desayunar en pleno centro de Lerma. Muy recomendables los huevos al horno, la atención es genial y la terraza muy buena para el cafelito. Comida: 5 Servicio: 5 Ambiente: 5",
+        "marker-color": "#fff700",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.51114058383405,
+          19.28648294843343
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"Portales\" Lugar con diversos puestos de guisados y garnachas,  una de las mejores opciones para echar un vistazo cuando se tiene antojo. "
+      },
+      "geometry": {
+        "coordinates": [
+          -99.51073735543531,
+          19.286455612599994
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"La Constancia\" Es una cafeteria con precios algo elevados y  no tienen mucho que comer, mas son bebidas y postres. "
+      },
+      "geometry": {
+        "coordinates": [
+          -99.51183479927724,
+          19.28646169407382
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"Galería Cafexpresión Lerma\"   Es un lugar pequeñito, muy acogedor, dónde te sirven buen café y buenos postres, tienen un ambiente tranquilo y relajado, el servicio es rápido y no te hacen esperar tanto, además la decoración es muy original ya que tienen tazas de todo tipo."
+      },
+      "geometry": {
+        "coordinates": [
+          -99.51207710770319,
+          19.285726123837748
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"TAQUERÍA LERMA\"   Martes y domingo los de pastor están al 2x1. La salsa es deliciosa, la carne fresca y sabrosa. Los martes y fines de semana cierran tarde. Hay pocas mesas por lo que a veces conviene pedir para llevar."
+      },
+      "geometry": {
+        "coordinates": [
+          -99.50972049430894,
+          19.2848253695079
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"Fonda Roja\" Sirven garnachas a precios economicos, el personal es amable aunque casi no hay lugar para sentarse. Es uno de los lugares mas frecuentados por los estudiantes."
+      },
+      "geometry": {
+        "coordinates": [
+          -99.50276963753362,
+          19.291833730481613
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"Fonda de casa de tabique\"  Es una cocina economica, donde los estudiantes comen cuando ya no alcanza la comida del comedor de la universidad. Tienen precios accesibles y son muy amables, la mayoria del tiempo atienden lo mas rapido posible, aunque con la demanda de los pedidos suele tardarse la comida si hay mucha gente. "
+      },
+      "geometry": {
+        "coordinates": [
+          -99.50277245525352,
+          19.291988867882026
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"TACOS DE CANASTA\" Casi todos los dias por las tardes entre semana se pone una chica que vende tacos de canasta, super baratos y  medianamente sazonados. "
+      },
+      "geometry": {
+        "coordinates": [
+          -99.50643151779788,
+          19.285920911004283
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Lugares de Comida Económica": "Lugares de Comida Económica: \"TAMALES\" Por las mananas se venden tamales, atole y tortas de tamal, aunque estan insipidas y el sabor es poco agradable. No lo recomiendo. "
+      },
+      "geometry": {
+        "coordinates": [
+          -99.50647870526858,
+          19.28589838532386
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    }
+  ]
+}
